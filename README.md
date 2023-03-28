@@ -4,6 +4,11 @@ Human Resources Solutions System is a system that provides a platform to manage 
 
 This was a collaborative project for Computer Programming - 1 course (CSC 111).
 
+Team members:
+1. [Bashayir AlHassar](https://github.com/httpsbashayer/)
+2. [Reema AlAmri](https://github.com/Reemaalamri422)
+3. [Lojain Bawazeer](https://github.com/Lojain12)
+
 ### Programming Language
 - Java
 ### Installation
